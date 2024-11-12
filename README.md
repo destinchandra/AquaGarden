@@ -4,9 +4,9 @@
 The AquaGarden Game is a water logging game where players log water as they drink to help a flower grow into a beautiful tree and to keep track of their water intake. The game is built using MakeCode Arcade, and each 100 ml of water logged causes the plant to grow progressively. Once the plant fully grows into a tree, the game ends and repeats.
 
 ## How to Play
-- Press **A** to log water.
+- Press **A** to log water intake. 
 - Each time you press **A**, 100 ml of water will be added to your AquaGarden.
-- As you log more water, the flower will grow through different stages, eventually becoming a full garden.
+- As you log more water, the plant seed will grow through different stages, eventually becoming a tree.
 
 ## Play the Game
 You can play the AquaGarden Game directly using the link below:
