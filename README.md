@@ -12,8 +12,6 @@ The AquaGarden Game is a water logging game where players log water as they drin
 You can play the AquaGarden Game directly using the link below:
 - [AquaGarden Game on MakeCode Arcade](https://arcade.makecode.com/S52419-35321-71135-95642)
 
-## Repository Structure
-- **src**: This folder contains all the source code files for the game.
 
 ## Setup Instructions
 1. Visit [MakeCode Arcade](https://arcade.makecode.com).
